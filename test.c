@@ -2,8 +2,7 @@
 
 int main()
 {
-  int num = 5;
-  printf("This is your grade!! %d\n", num);
+  printf("This is your grade!!\n");
 
   return 0;
 }
